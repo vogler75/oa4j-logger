@@ -21,7 +21,7 @@ Offering values by ZeroMQ can be replaced by writing values directly to a databa
    https://maven.apache.org/download.cgi
    Copy content of zip to e.g. C:\Tools\apache-maven-3.5.0
    
-*) Build MQTT Driver
+*) Build Logger
    set PATH=%PATH%;C:\Tools\apache-maven-3.5.0\bin
    set JAVA_HOME=C:\Program Files\Java\jdk1.8.0_131
    set PROJ_HOME=C:\WinCC_OA_Proj\<project>
